@@ -235,7 +235,7 @@ if(!/^(0x){1}[0-9a-fA-F]{40}$/i.test(referaladd)){
   'error'
 )
 }else{    
-  document.getElementById('refaddress').value = 'https://orcichain.xyz/get.html?ref=' + document.getElementById('refaddress').value;
+  document.getElementById('refaddress').value = 'https://o-chain.xyz/get.html?ref=' + document.getElementById('refaddress').value;
 }
 }
 }
